@@ -21,6 +21,8 @@ def quick_sort(data):
 
 print("Hello, Python world")
 print("sample")
+for i in range(3):
+    print("Nice")
 a = 10
 b = 0.000001
 c = 'string'

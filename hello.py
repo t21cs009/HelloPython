@@ -20,6 +20,7 @@ def quick_sort(data):
 
 
 print("Hello, Python world")
+print("sample")
 a = 10
 b = 0.000001
 c = 'string'
